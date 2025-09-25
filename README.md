@@ -6,7 +6,13 @@ The **Community Land Use & Zoning Database** is a relational database system des
 This project bridges the gap between **planning theory and practice**, enabling communities, planners, and decision-makers to **track developments, identify zoning violations, and analyze land use dynamics** in rapidly growing urban and peri-urban areas.  
 
 ---
+## Entity Relationship Diagram (ERD)
 
+Below is the ERD for the **Community Land Use & Zoning Database**:
+
+![Community Land Use ERD](landuse_zoning_database.png)
+
+---
 ## Impact  
 - **Transparency in Land Use** → Helps monitor how land is being utilized versus how it is zoned.  
 - **Development Control** → Tracks applications, permits, and approvals for new projects.  
