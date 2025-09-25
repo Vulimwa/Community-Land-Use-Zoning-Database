@@ -10,7 +10,7 @@ This project bridges the gap between **planning theory and practice**, enabling 
 
 Below is the ERD for the **Community Land Use & Zoning Database**:
 
-![Community Land Use ERD](landuse_zoning_database.png)
+![Community Land Use ERD](Landuse_zoning_database.png)
 
 ---
 ## Impact  
